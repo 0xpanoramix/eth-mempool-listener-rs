@@ -37,4 +37,4 @@ You can start the listener by running :
 
 ## Author
 
-Made with ❤️ by 🤖 [Luca Georges François](https://github.com/PtitLuca) 🤖
+Made with ❤️ by 🤖 [Luca Georges François](https://github.com/0xpanoramix) 🤖
